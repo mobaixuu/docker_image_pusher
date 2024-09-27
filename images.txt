@@ -4,4 +4,3 @@ chigusa/bililive-go
 ihmily/douyin-live-recorder
 h55205l/ffandown
 dreamacro/clash
-superng6/singbox
